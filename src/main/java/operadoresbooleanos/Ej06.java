@@ -18,7 +18,7 @@ public class Ej06 {
 
         
         
-    int a = ',';
+    int a = 'a';
     
     System.out.println(a);
         
