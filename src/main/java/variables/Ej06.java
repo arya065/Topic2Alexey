@@ -3,13 +3,13 @@
 package variables;
 
 import java.util.*;
-import javax.swing.JOptionPane;
 
 public class Ej06 {
 
     public static void main(String[] args) {
         
         Scanner in = new Scanner(System.in);
+        
         double a,b,c,summ;
         
         System.out.println("Enter the first part");
