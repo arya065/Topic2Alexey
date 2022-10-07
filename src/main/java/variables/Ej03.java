@@ -4,6 +4,7 @@ import java.util.*;
 public class Ej03 {
 
     public static void main(String[] args){
+        
         float a,b,c,d;
         Scanner in= new Scanner(System.in);
         

@@ -6,6 +6,7 @@ import java.util.*;
 public class Ej04 {
 
     public static void main(String[] args){
+        
         int a,b,c;
         double d;
         Scanner in= new Scanner(System.in);

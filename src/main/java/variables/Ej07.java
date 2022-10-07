@@ -11,7 +11,8 @@ public class Ej07 {
         
         double b,c;
         
-        String a=JOptionPane.showInputDialog("Enter the number of euros",100);
+        String a=JOptionPane.showInputDialog("Enter the number of euros"
+                ,100);
         c=Double.parseDouble(a);
     
         b=c*0.99;

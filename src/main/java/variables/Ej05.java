@@ -2,15 +2,14 @@
 
 package variables;
 import java.util.*;
-import java.util.Random;
 
 public class Ej05 {
 
     public static void main(String[] args){
+        
         int a,c;
         double d,b;
         Scanner in= new Scanner(System.in);
-        Random rand = new Random();
         
         System.out.println("Enter number of hours of teachers");
         a=in.nextInt();
